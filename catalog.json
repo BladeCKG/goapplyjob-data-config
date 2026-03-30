@@ -24,7 +24,7 @@
   },
   {
     "canonical": "Vue.js",
-    "aliases": ["vue.js", "vuejs", "vue js", "vue-js"],
+    "aliases": ["vue.js", "vuejs", "vue js", "vue-js", "vue"],
     "caseSensitive": false
   },
   {
