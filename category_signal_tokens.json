@@ -400,11 +400,11 @@
     "tokens": [
       {
         "token": "architect",
-        "weight": 0.03
+        "weight": 1.15
       },
       {
         "token": "architects",
-        "weight": 0.03
+        "weight": 1.15
       }
     ]
   },
@@ -543,11 +543,11 @@
       },
       {
         "token": "specialist",
-        "weight": 0.1
+        "weight": 0.8
       },
       {
         "token": "specialists",
-        "weight": 0.1
+        "weight": 0.8
       }
     ]
   },
@@ -742,11 +742,11 @@
       },
       {
         "token": "representative",
-        "weight": 0.1
+        "weight": 0.75
       },
       {
         "token": "representatives",
-        "weight": 0.1
+        "weight": 0.75
       }
     ]
   },
@@ -759,11 +759,11 @@
       },
       {
         "token": "manager",
-        "weight": 0.01
+        "weight": 0.9
       },
       {
         "token": "managers",
-        "weight": 0.01
+        "weight": 0.9
       }
     ]
   },
@@ -873,11 +873,11 @@
       },
       {
         "token": "specialist",
-        "weight": 0.1
+        "weight": 0.8
       },
       {
         "token": "specialists",
-        "weight": 0.1
+        "weight": 0.8
       }
     ]
   },
@@ -907,11 +907,11 @@
       },
       {
         "token": "representative",
-        "weight": 0.1
+        "weight": 0.75
       },
       {
         "token": "representatives",
-        "weight": 0.1
+        "weight": 0.75
       },
       {
         "token": "services",
@@ -1076,11 +1076,11 @@
     "tokens": [
       {
         "token": "consultant",
-        "weight": 0.03
+        "weight": 1.1
       },
       {
         "token": "consultants",
-        "weight": 0.03
+        "weight": 1.1
       }
     ]
   },
@@ -1148,11 +1148,11 @@
       },
       {
         "token": "writer",
-        "weight": 0.1
+        "weight": 0.75
       },
       {
         "token": "writers",
-        "weight": 0.1
+        "weight": 0.75
       }
     ]
   },
@@ -2594,11 +2594,11 @@
     "tokens": [
       {
         "token": "producer",
-        "weight": 0.03
+        "weight": 1.05
       },
       {
         "token": "producers",
-        "weight": 0.03
+        "weight": 1.05
       }
     ]
   },
@@ -3206,11 +3206,11 @@
     "tokens": [
       {
         "token": "consultant",
-        "weight": 0.01
+        "weight": 0.8
       },
       {
         "token": "consultants",
-        "weight": 0.01
+        "weight": 0.8
       },
       {
         "token": "salesforce",
@@ -3792,11 +3792,11 @@
       },
       {
         "token": "writer",
-        "weight": 0.1
+        "weight": 0.8
       },
       {
         "token": "writers",
-        "weight": 0.1
+        "weight": 0.8
       }
     ]
   },
