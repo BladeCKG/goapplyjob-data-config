@@ -1,0 +1,1 @@
+# goapplyjob-data-config
