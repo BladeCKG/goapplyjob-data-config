@@ -1541,11 +1541,11 @@
     "tokens": [
       {
         "token": "director",
-        "weight": 0.03
+        "weight": 1.2
       },
       {
         "token": "directors",
-        "weight": 0.03
+        "weight": 1.2
       }
     ]
   },
