@@ -137,7 +137,7 @@
     "tokens": [
       {
         "token": "accounting",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "manager",
@@ -235,7 +235,7 @@
     "tokens": [
       {
         "token": "affiliate",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "manager",
@@ -252,7 +252,7 @@
     "tokens": [
       {
         "token": "ai",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "engineer",
@@ -303,7 +303,7 @@
     "tokens": [
       {
         "token": "analytics",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "engineer",
@@ -320,7 +320,7 @@
     "tokens": [
       {
         "token": "android",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "developer",
@@ -340,7 +340,7 @@
       },
       {
         "token": "mobile",
-        "weight": 3.76
+        "weight": 3.1
       }
     ]
   },
@@ -413,7 +413,7 @@
     "tokens": [
       {
         "token": "art",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "director",
@@ -539,7 +539,7 @@
     "tokens": [
       {
         "token": "billing",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "specialist",
@@ -556,7 +556,7 @@
     "tokens": [
       {
         "token": "blockchain",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "engineer",
@@ -624,7 +624,7 @@
     "tokens": [
       {
         "token": "brand",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "manager",
@@ -649,7 +649,7 @@
       },
       {
         "token": "business",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -751,7 +751,7 @@
     "tokens": [
       {
         "token": "capture",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "manager",
@@ -844,7 +844,7 @@
     "tokens": [
       {
         "token": "civil",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "engineer",
@@ -861,7 +861,7 @@
     "tokens": [
       {
         "token": "claims",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "specialist",
@@ -990,7 +990,7 @@
     "tokens": [
       {
         "token": "cloud",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "engineer",
@@ -1029,7 +1029,7 @@
     "tokens": [
       {
         "token": "community",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "manager",
@@ -1114,7 +1114,7 @@
     "tokens": [
       {
         "token": "content",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "manager",
@@ -1447,7 +1447,7 @@
       },
       {
         "token": "database",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -1579,7 +1579,7 @@
     "tokens": [
       {
         "token": "electrical",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "engineer",
@@ -1713,7 +1713,7 @@
       },
       {
         "token": "field",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -1846,7 +1846,7 @@
       },
       {
         "token": "game",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -1938,7 +1938,7 @@
       },
       {
         "token": "hardware",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2027,7 +2027,7 @@
       },
       {
         "token": "infrastructure",
-        "weight": 3.88
+        "weight": 3.3
       }
     ]
   },
@@ -2074,11 +2074,11 @@
       },
       {
         "token": "ios",
-        "weight": 3.88
+        "weight": 3.3
       },
       {
         "token": "mobile",
-        "weight": 3.76
+        "weight": 3.1
       }
     ]
   },
@@ -2216,7 +2216,7 @@
       },
       {
         "token": "llm",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2322,7 +2322,7 @@
       },
       {
         "token": "mechanical",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2356,7 +2356,7 @@
       },
       {
         "token": "medical",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2411,7 +2411,7 @@
       },
       {
         "token": "network",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2441,7 +2441,7 @@
       },
       {
         "token": "nlp",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2459,7 +2459,7 @@
     "tokens": [
       {
         "token": "onboarding",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "specialist",
@@ -2562,11 +2562,11 @@
       },
       {
         "token": "infrastructure",
-        "weight": 3.76
+        "weight": 3.1
       },
       {
         "token": "platform",
-        "weight": 3.88
+        "weight": 3.3
       }
     ]
   },
@@ -2604,7 +2604,7 @@
       },
       {
         "token": "pricing",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2664,7 +2664,7 @@
       },
       {
         "token": "product",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2710,7 +2710,7 @@
       },
       {
         "token": "product",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2745,7 +2745,7 @@
     "tokens": [
       {
         "token": "product",
-        "weight": 3.88
+        "weight": 3.1
       },
       {
         "token": "specialist",
@@ -2770,7 +2770,7 @@
       },
       {
         "token": "production",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2787,7 +2787,7 @@
       },
       {
         "token": "program",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -2833,7 +2833,7 @@
       },
       {
         "token": "proposal",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
@@ -3217,7 +3217,7 @@
       },
       {
         "token": "salesforce",
-        "weight": 3.88
+        "weight": 3.1
       }
     ]
   },
