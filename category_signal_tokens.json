@@ -500,6 +500,10 @@
         "weight": 1.9
       },
       {
+        "token": "development",
+        "weight": 1.8
+      },
+      {
         "token": "engineer",
         "weight": 1.96
       },
@@ -1757,6 +1761,10 @@
       {
         "token": "developer",
         "weight": 1.9
+      },
+      {
+        "token": "development",
+        "weight": 1.8
       },
       {
         "token": "developers",
