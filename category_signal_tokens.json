@@ -1152,15 +1152,15 @@
     "tokens": [
       {
         "token": "content",
-        "weight": 3.88
+        "weight": 2.2
       },
       {
         "token": "writer",
-        "weight": 1.96
+        "weight": 2.8
       },
       {
         "token": "writers",
-        "weight": 1.96
+        "weight": 2.8
       },
       {
         "token": "editor",
@@ -2382,7 +2382,7 @@
     "tokens": [
       {
         "token": "medical",
-        "weight": 2.63
+        "weight": 2.2
       },
       {
         "token": "medicalwriter",
@@ -2390,11 +2390,11 @@
       },
       {
         "token": "writer",
-        "weight": 1.96
+        "weight": 2.8
       },
       {
         "token": "writers",
-        "weight": 1.96
+        "weight": 2.8
       }
     ]
   },
