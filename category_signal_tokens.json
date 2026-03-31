@@ -2149,6 +2149,10 @@
         "weight": 3.5
       },
       {
+        "token": "teaching",
+        "weight": 2.8
+      },
+      {
         "token": "trainer",
         "weight": 3.5
       },
@@ -2335,6 +2339,10 @@
       },
       {
         "token": "coding",
+        "weight": 1.67
+      },
+      {
+        "token": "coder",
         "weight": 1.67
       },
       {
@@ -2928,7 +2936,7 @@
       },
       {
         "token": "quality",
-        "weight": 2.41
+        "weight": 1.28
       },
       {
         "token": "test",
@@ -3476,10 +3484,6 @@
   {
     "category": "Software Engineer",
     "tokens": [
-      {
-        "token": "coder",
-        "weight": 3.19
-      },
       {
         "token": "developer",
         "weight": 1.9
