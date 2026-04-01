@@ -4121,19 +4121,19 @@
       },
       {
         "token": "ui",
-        "weight": 2.2
+        "weight": 2.8
       },
       {
         "token": "uiux",
-        "weight": 2.23
+        "weight": 3.23
       },
       {
         "token": "ux",
-        "weight": 2.2
+        "weight": 2.8
       },
       {
         "token": "web",
-        "weight": 2.3
+        "weight": 2.57
       },
       {
         "token": "webflow",
