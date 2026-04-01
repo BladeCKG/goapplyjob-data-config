@@ -1799,6 +1799,10 @@
         "weight": 2.74
       },
       {
+        "token": "front",
+        "weight": 2.7
+      },
+      {
         "token": "programmer",
         "weight": 3
       },
