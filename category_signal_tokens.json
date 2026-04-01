@@ -2177,6 +2177,14 @@
         "weight": 3.5
       },
       {
+        "token": "educator",
+        "weight": 3.5
+      },
+      {
+        "token": "educators",
+        "weight": 3.5
+      },
+      {
         "token": "teaching",
         "weight": 2.8
       },
