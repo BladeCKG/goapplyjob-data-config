@@ -1001,6 +1001,14 @@
         "weight": 1.96
       },
       {
+        "token": "architect",
+        "weight": 1.9
+      },
+      {
+        "token": "architects",
+        "weight": 1.9
+      },
+      {
         "token": "engineers",
         "weight": 1.96
       }
