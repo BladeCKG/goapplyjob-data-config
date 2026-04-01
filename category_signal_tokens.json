@@ -1815,6 +1815,10 @@
         "weight": 2.65
       },
       {
+        "token": "uiux",
+        "weight": 2.65
+      },
+      {
         "token": "web",
         "weight": 2.57
       }
@@ -1916,11 +1920,11 @@
       },
       {
         "token": "graphic",
-        "weight": 2.18
+        "weight": 3.18
       },
       {
         "token": "graphics",
-        "weight": 2.18
+        "weight": 3.18
       },
       {
         "token": "illustrator",
@@ -1937,6 +1941,18 @@
       {
         "token": "visual",
         "weight": 2.18
+      },
+      {
+        "token": "ui",
+        "weight": 2.65
+      },
+      {
+        "token": "uiux",
+        "weight": 2.65
+      },
+      {
+        "token": "ux",
+        "weight": 2.46
       }
     ]
   },
@@ -2730,14 +2746,6 @@
       {
         "token": "product",
         "weight": 2.62
-      },
-      {
-        "token": "ui",
-        "weight": 2.53
-      },
-      {
-        "token": "ux",
-        "weight": 2.46
       }
     ]
   },
@@ -4120,20 +4128,8 @@
         "weight": 2.45
       },
       {
-        "token": "ui",
-        "weight": 2.8
-      },
-      {
-        "token": "uiux",
-        "weight": 3.23
-      },
-      {
-        "token": "ux",
-        "weight": 2.8
-      },
-      {
         "token": "web",
-        "weight": 2.57
+        "weight": 3.1
       },
       {
         "token": "webflow",
