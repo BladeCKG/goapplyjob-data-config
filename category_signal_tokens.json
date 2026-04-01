@@ -3555,6 +3555,54 @@
       {
         "token": "application",
         "weight": 2.5
+      },
+      {
+        "token": "Java",
+        "weight": 2.5
+      },
+      {
+        "token": "Python",
+        "weight": 2.5
+      },
+      {
+        "token": "Javascript",
+        "weight": 2.5
+      },
+      {
+        "token": "Typescript",
+        "weight": 2.5
+      },
+      {
+        "token": "Golang",
+        "weight": 2.5
+      },
+      {
+        "token": "Dotnet",
+        "weight": 2.5
+      },
+      {
+        "token": "Ruby",
+        "weight": 2.5
+      },
+      {
+        "token": "Php",
+        "weight": 2.5
+      },
+      {
+        "token": "Kotlin",
+        "weight": 2.5
+      },
+      {
+        "token": "Scala",
+        "weight": 2.5
+      },
+      {
+        "token": "Rust",
+        "weight": 2.5
+      },
+      {
+        "token": "API",
+        "weight": 2.5
       }
     ]
   },
