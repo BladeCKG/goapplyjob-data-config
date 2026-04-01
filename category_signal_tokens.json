@@ -526,6 +526,14 @@
       {
         "token": "services",
         "weight": 2.49
+      },
+      {
+        "token": "microservice",
+        "weight": 2.49
+      },
+      {
+        "token": "microservices",
+        "weight": 2.49
       }
     ]
   },
