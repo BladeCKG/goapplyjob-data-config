@@ -1044,6 +1044,10 @@
     "category": "Community Manager",
     "tokens": [
       {
+        "token": "communication",
+        "weight": 3.1
+      },
+      {
         "token": "community",
         "weight": 3.1
       },
