@@ -358,7 +358,7 @@
     "tokens": [
       {
         "token": "application",
-        "weight": 5.51
+        "weight": 2.79
       },
       {
         "token": "developer",
@@ -3523,6 +3523,10 @@
       {
         "token": "software",
         "weight": 2.79
+      },
+      {
+        "token": "application",
+        "weight": 2.5
       }
     ]
   },
