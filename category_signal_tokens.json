@@ -3494,23 +3494,23 @@
     "tokens": [
       {
         "token": "developer",
-        "weight": 1.9
+        "weight": 1.91
       },
       {
         "token": "developers",
-        "weight": 1.9
+        "weight": 1.91
       },
       {
         "token": "development",
-        "weight": 1.9
+        "weight": 1.91
       },
       {
         "token": "engineer",
-        "weight": 1.96
+        "weight": 1.97
       },
       {
         "token": "engineers",
-        "weight": 1.96
+        "weight": 1.97
       },
       {
         "token": "programmer",
