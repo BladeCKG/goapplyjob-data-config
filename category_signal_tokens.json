@@ -3565,6 +3565,10 @@
         "weight": 2.5
       },
       {
+        "token": "React",
+        "weight": 2.5
+      },
+      {
         "token": "Java",
         "weight": 2.5
       },
@@ -3610,6 +3614,14 @@
       },
       {
         "token": "API",
+        "weight": 2.5
+      },
+      {
+        "token": "Angular",
+        "weight": 2.5
+      },
+      {
+        "token": "Vue",
         "weight": 2.5
       }
     ]
