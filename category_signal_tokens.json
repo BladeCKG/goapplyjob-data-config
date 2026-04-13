@@ -3440,7 +3440,11 @@
       },
       {
         "token": "security",
-        "weight": 2.3
+        "weight": 3.2
+      },
+      {
+        "token": "cybersecurity",
+        "weight": 3.2
       }
     ]
   },
