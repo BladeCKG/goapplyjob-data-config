@@ -1362,6 +1362,10 @@
         "weight": 1.96
       },
       {
+        "token": "analytics",
+        "weight": 1.9
+      },
+      {
         "token": "analysts",
         "weight": 1.96
       },
