@@ -1558,6 +1558,14 @@
         "weight": 3.14
       },
       {
+        "token": "reliability",
+        "weight": 1.5
+      },
+      {
+        "token": "site",
+        "weight": 1.5
+      },
+      {
         "token": "sre",
         "weight": 3.23
       }
