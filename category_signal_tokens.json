@@ -295,6 +295,10 @@
       {
         "token": "analysts",
         "weight": 3.5
+      },
+      {
+        "token": "analytics",
+        "weight": 3.5
       }
     ]
   },
